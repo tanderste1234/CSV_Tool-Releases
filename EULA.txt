@@ -1,0 +1,58 @@
+SOFTWARE END USER LICENSE AGREEMENT
+
+This End User License Agreement (this "Agreement") is a binding agreement between Thomas Edmund Anderson ("Licensor") and the person or entity identified as the licensee of the Software ("Licensee").
+
+WARNING: THE SOFTWARE IS DESIGNED, TESTED, AND SUPPORTED SOLELY FOR USE ON DEBIAN LINUX AND WINDOWS ENVIRONMENTS. OPERATION OR DEPLOYMENT ON ANY OTHER OPERATING SYSTEMS OR ENVIRONMENTS IS UNSUPPORTED, UNWARRANTED, AND STRICTLY AT LICENSEE'S OWN RISK.
+
+LICENSOR PROVIDES THE SOFTWARE SOLELY ON THE TERMS AND CONDITIONS SET FORTH IN THIS AGREEMENT AND ON THE CONDITION THAT LICENSEE ACCEPTS AND COMPLIES WITH THEM. BY DOWNLOADING, INSTALLING, OR USING CSV TOOL, YOU (A) ACCEPT THIS AGREEMENT AND AGREE THAT LICENSEE IS LEGALLY BOUND BY ITS TERMS; AND (B) REPRESENT AND WARRANT THAT: (I) YOU ARE 18 YEARS OF AGE OR OLDER OR OF LEGAL AGE TO ENTER INTO A BINDING AGREEMENT; AND (II) IF LICENSEE IS A CORPORATION, GOVERNMENTAL ORGANIZATION, OR OTHER LEGAL ENTITY, YOU HAVE THE RIGHT, POWER, AND AUTHORITY TO ENTER INTO THIS AGREEMENT ON BEHALF OF LICENSEE AND BIND LICENSEE TO ITS TERMS. IF LICENSEE DOES NOT AGREE TO THE TERMS OF THIS AGREEMENT, LICENSOR WILL NOT AND DOES NOT LICENSE THE SOFTWARE TO LICENSEE AND YOU MUST NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE OR DOCUMENTATION.
+
+NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR YOUR OR LICENSEE'S ACCEPTANCE OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, NO LICENSE IS GRANTED (WHETHER EXPRESSLY, BY IMPLICATION, OR OTHERWISE) UNDER THIS AGREEMENT, AND THIS AGREEMENT EXPRESSLY EXCLUDES ANY RIGHT CONCERNING ANY SOFTWARE THAT LICENSEE DID NOT ACQUIRE LAWFULLY OR THAT IS NOT A LEGITIMATE, AUTHORIZED COPY OF LICENSOR'S SOFTWARE.
+
+1. Definitions. For purposes of this Agreement, the following terms have the following meanings:
+"Authorized Users" means solely those individual persons authorized by Licensee to use the Software pursuant to the license granted under this Agreement.
+"Documentation" means Licensor's user manuals, handbooks, and installation guides relating to the Software provided by Licensor to Licensee either electronically or in hard copy form.
+"Intellectual Property Rights" means any and all registered and unregistered rights granted, applied for, or otherwise now or hereafter in existence under or related to any patent, copyright, trademark, trade secret, database protection, or other intellectual property rights laws, and all similar or equivalent rights or forms of protection, in any part of the world.
+"Person" means an individual, corporation, partnership, joint venture, limited liability company, governmental authority, unincorporated organization, trust, association, or other entity.
+"Software" means CSV Tool in executable object code format, including any Updates provided to Licensee pursuant to this Agreement.
+"Third Party" means any Person other than Licensee or Licensor.
+"Updates" means any updates, bug fixes, patches, or other error corrections to the Software that Licensor generally makes available free of charge to all licensees of the Software.
+
+2. License Grant and Scope. Subject to and conditioned upon Licensee's compliance with all terms and conditions set forth in this Agreement, Licensor hereby grants Licensee a non-exclusive, non-sublicensable, non-transferable license, during the Term and solely by and through its Authorized Users, to:
+(a) Download, copy, and install in accordance with the Documentation one (1) copy of the Software on one (1) computer owned or leased, and controlled by, Licensee. In addition to the foregoing, Licensee has the right to make one copy of the Software solely for archival purposes and a reasonable number of copies of the Software solely for backup purposes, provided that Licensee shall not, and shall not allow any Person to, install or use any such copy other than if and for so long as the copy installed in accordance with the preceding sentence is inoperable and, provided, further, that Licensee uninstalls and otherwise deletes such inoperable copy(ies). All copies of the Software made by the Licensee:
+  (i) will be the exclusive property of the Licensor;
+  (ii) will be subject to the terms and conditions of this Agreement; and 
+  (iii) must include all trademark, copyright, patent, and other Intellectual Property Rights notices contained in the original.
+(b) Use and run the Software as properly installed in accordance with this Agreement and the Documentation, solely for Licensee's internal business or research purposes.
+(c) Download or otherwise make one (1) copy of the Documentation per copy of the Software permitted to be downloaded, made, and installed in accordance with this Agreement and use such Documentation, solely in support of its licensed use of the Software in accordance herewith.
+
+3. Use Restrictions. Licensee shall not, and shall require its Authorized Users not to, directly or indirectly:
+(a) use (including make any copies of) the Software or Documentation beyond the scope of the license granted under Section 2;
+(b) provide any other Person, including any subcontractor, independent contractor, affiliate, or service provider of Licensee, with access to or use of the Software or Documentation;
+(c) modify, translate, adapt, or otherwise create derivative works or improvements, whether or not patentable, of the Software or Documentation or any part thereof;
+(d) combine the Software or any part thereof with, or incorporate the Software or any part thereof in, any other programs;
+(e) reverse engineer, disassemble, decompile, decode, or otherwise attempt to derive or gain access to the source code of the Software or any part thereof;
+(f) remove, delete, alter, or obscure any trademarks or any copyright, trademark, patent, or other intellectual property or proprietary rights notices provided on or with the Software or Documentation, including any copy thereof;
+(g) except as expressly set forth in Section 2, copy the Software or Documentation, in whole or in part;
+(h) rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer, or otherwise make available the Software, or any features or functionality of the Software, to any Third Party for any reason, whether or not over a network or on a hosted basis;
+(i) use the Software or Documentation in violation of any law, regulation, or rule; or
+(j) use the Software or Documentation for purposes of competitive analysis of the Software, the development of a competing software product or service, or any other purpose that is to the Licensor's commercial disadvantage.
+
+4. Responsibility for Use of Software. Licensee is responsible and liable for all uses of the Software and Documentation through access thereto provided by Licensee, directly or indirectly. Specifically, Licensee is responsible and liable for all actions and failures to take required actions with respect to the Software and Documentation by its Authorized Users or by any other Person to whom Licensee or an Authorized User may provide access to or use of the Software and/or Documentation.
+
+5. Intellectual Property Rights. Licensee acknowledges and agrees that the Software and Documentation are provided under license, and not sold, to Licensee. Licensee does not acquire any ownership interest in the Software or Documentation under this Agreement, or any other rights thereto, other than to use the same in accordance with the license granted and subject to all terms, conditions, and restrictions under this Agreement. Licensor reserves and shall retain its entire right, title, and interest in and to the Software and all Intellectual Property Rights arising out of or relating to the Software, except as expressly granted to the Licensee in this Agreement. Licensee shall safeguard all Software (including all copies thereof) from infringement, misappropriation, theft, misuse, or unauthorized access.
+
+6. Term and Termination.
+(a) This Agreement and the license granted hereunder shall remain in effect until terminated as set forth herein (the "Term").
+(b) Licensee may terminate this Agreement by ceasing to use and destroying all copies of the Software and Documentation. 
+(c) Licensor may terminate this Agreement, effective upon written notice to Licensee, if Licensee materially breaches this Agreement and such breach remains uncured thirty (30) days after Licensor provides written notice thereof.
+(d) Upon expiration or earlier termination of this Agreement, the license granted hereunder shall also terminate, and Licensee shall cease using and destroy all copies of the Software and Documentation.
+
+7. Warranty Disclaimer. THE SOFTWARE AND DOCUMENTATION ARE PROVIDED TO LICENSEE "AS IS" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, LICENSOR, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES AND ITS AND THEIR RESPECTIVE LICENSORS AND SERVICE PROVIDERS, EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SOFTWARE AND DOCUMENTATION, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE. WITHOUT LIMITATION TO THE FOREGOING, THE LICENSOR PROVIDES NO WARRANTY OR UNDERTAKING, AND MAKES NO REPRESENTATION OF ANY KIND THAT THE LICENSED SOFTWARE WILL MEET THE LICENSEE'S REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE COMPATIBLE, OR WORK WITH ANY OTHER SOFTWARE, APPLICATIONS, SYSTEMS, OR SERVICES, OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS, OR BE ERROR FREE, OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
+
+8. Limitation of Liability. TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW:
+(a) IN NO EVENT WILL LICENSOR OR ITS AFFILIATES, OR ANY OF ITS OR THEIR RESPECTIVE LICENSORS OR SERVICE PROVIDERS, BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR ANY USE, INTERRUPTION, DELAY, OR INABILITY TO USE THE SOFTWARE; LOST REVENUES OR PROFITS; DELAYS, INTERRUPTION, OR LOSS OF SERVICES, BUSINESS, OR GOODWILL; LOSS OR CORRUPTION OF DATA; LOSS RESULTING FROM SYSTEM OR SYSTEM SERVICE FAILURE, MALFUNCTION, OR SHUTDOWN; OR FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES, WHETHER ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE AND WHETHER OR NOT THE LICENSOR WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+(b) IN NO EVENT WILL LICENSOR'S AND ITS AFFILIATES' COLLECTIVE AGGREGATE LIABILITY UNDER OR IN CONNECTION WITH THIS AGREEMENT OR ITS SUBJECT MATTER, UNDER ANY LEGAL OR EQUITABLE THEORY, EXCEED THE TOTAL AMOUNT PAID TO THE LICENSOR PURSUANT TO THIS AGREEMENT FOR THE SOFTWARE.
+
+9. Miscellaneous.
+(a) Governing Law. All matters arising out of or relating to this Agreement shall be governed by and construed in accordance with the internal laws of the State of Louisiana without giving effect to any choice or conflict of law provision or rule. Any legal suit, action, or proceeding arising out of or relating to this Agreement shall be instituted in the federal or state courts located in Monroe, Louisiana, and each party irrevocably submits to the exclusive jurisdiction of such courts.
+(b) Entire Agreement. This Agreement constitutes the sole and entire agreement between Licensee and Licensor with respect to the subject matter contained herein, and supersedes all prior and contemporaneous understandings, agreements, representations, and warranties, both written and oral, with respect to such subject matter.
