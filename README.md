@@ -5,11 +5,11 @@ this is where the installer for the tool and the tools executables and binaries 
 2. from the repository on your web browser click on the `WindowsInstallerForCSVTOOL&RDTOOL.exe` file to open it
 3. On the file preview screen, locate the group of 3 buttons in the top-right corner (the first button is labeled **Raw**).
 4. Click the 3rd button on the right (the download icon, which shows the tooltip **"Download raw file"** when you hover over it) to save the file to your computer.
-5. it does not matter what folder you save the installer in however you should note where it is as you will need it in the next step if on linux skip step 6
+5. it does not matter what folder you save the installer in however you should note where it is as you will need it in the next step
 6. to run the installer on windows left click the installer file and in the following menu hit the run as administrator and when prompted click the yes button now skip to step 10 of these instructions
 7. to run the installer on linux you need to give it execution permissions if not familiar with giving those permissions please search google on how to give a program execution permissions
-8. once it has permissions simply double click the file and if prompted select run skip step 9 as you should have already followed it
-9. for linux installing the instructions are the same as steps 2 through 6 except the name of the file is `InstallerForCSVTOOL&RDTOOLLinuxBinary` once 2-6 have been followed with that in mind do steps 7 and 8 then skip to step 10
+8. once it has permissions simply double click the file and if prompted select run skip step 9 as you should have already followed it and then continue normally down the steps
+9. for Linux installing the instructions are the same as steps 2 through 5 except the name of the file is `InstallerForCSVTOOL&RDTOOLLinuxBinary` once 2-5 have been followed using the information here go to step 7 and follow the instructions normally (moving on to step 8 once done with 7)
 10. once the installer window is open choose custom or standard installation standard is for non-technical users while custom is for technical users and users who want to determine what versions and folders the tools install themselves in
 11. hit the next button once you have made your selection and then if you have selected custom install make the necessary selections and hit next again
 12. there is one more screen which has options in both modes these options are for users who want to use a different template file than the one that's out of the box on windows there is an option for desktop shortcuts see the below notes if you are choosing to use a different template file or if you are on linux
