@@ -19,7 +19,7 @@ this is where the installer for the tool and the tools executables and binaries 
 12. on the next screen  when ready hit the install now button and wait for the progress bar to finish if on linux see the below note
 > **Note:** on linux the installer will give you a command to copy for giving the 2 tools execution permissions so remember to type sudo and a space before pasting the command when prompted enter your sudo password
 ## 💻 Using The Raw Data Tool
-1. double click the Desktop shortcut you created for the tool in the setup steps and wait for the window to open
+1. double click the Desktop shortcut the installer created if on windows on linux you would find the folder of the tool and double click the binary file (if prompted select run)
 2. click the <kbd>Add Files...</kbd> button near the top of the window and next to the white box labeled Input Headless Files then select your files for the current year using windows file explorer
 > ‼️**IMPORTANT NOTE** ‼️ **DO NOT** change the location of the temp file in the input window the only reason it is there is so that if we were to later need other use cases they may want to change that but as long as you are dealing with carbon data you **SHOULD** ***NEVER*** touch that input
 3. once you've added all the data files for this particular year please remember to name the output file after the year
