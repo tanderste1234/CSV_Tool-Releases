@@ -32,10 +32,10 @@ this is where the installer for the tool and the tools executables and binaries 
 8. Now repeat steps 2 through 7 until all headered year files have been properly generated
 ## 💻 Using The CSV Tool
 ### 1. Selecting The Input and Output Files
-1. First you will need to double-click the desktop shortcut
-2. Next you will need to hit the <kbd>Browse...</kbd> button in the program window next to the `input file:` label and after the white input box
-3. Navigate to your data file's location using windows file explorer and select the file
-4. If you want to use multiple files here hit the <kbd>+ Add Input File</kbd> button at the bottom of the file options box until you have enough input file items (if you hit this button too many times just use the <kbd>Remove</kbd> button (it's the last button) on any file inputs that are not needed) then repeat steps 2 and 3 until all input files have been selected
+1. First you will need to double-click the desktop shortcut or if on Linux double click the binary file from it's folder
+3. Next you will need to hit the <kbd>Browse...</kbd> button in the program window next to the `input file:` label and after the white input box
+4. Navigate to your data file's location using windows file explorer and select the file
+5. If you want to use multiple files here hit the <kbd>+ Add Input File</kbd> button at the bottom of the file options box until you have enough input file items (if you hit this button too many times just use the <kbd>Remove</kbd> button (it's the last button) on any file inputs that are not needed) then repeat steps 2 and 3 until all input files have been selected
 > **Optional Step 5:** the output file will automatically name itself after your input file's name with `_processed.csv` on original file name (it uses the first file name) if you do not want the output file to be named this way please click the <kbd>Browse...</kbd> button on the end of the input labeled output file and navigate to the place you would like to have your output file then name it whatever you want
 ### 2. Selecting The Fields
 1. There are 2 ways to input fields if you have a preset file skip to step 4 if not go through steps 2 and 3 and skip step 4
