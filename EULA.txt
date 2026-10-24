@@ -24,6 +24,7 @@ NOTWITHSTANDING ANYTHING TO THE CONTRARY IN THIS AGREEMENT OR YOUR OR LICENSEE'S
   (iii) must include all trademark, copyright, patent, and other Intellectual Property Rights notices contained in the original.
 (b) Use and run the Software as properly installed in accordance with this Agreement and the Documentation, solely for Licensee's internal business or research purposes.
 (c) Download or otherwise make one (1) copy of the Documentation per copy of the Software permitted to be downloaded, made, and installed in accordance with this Agreement and use such Documentation, solely in support of its licensed use of the Software in accordance herewith.
+(d) Local Performance Metrics and Diagnostics. Licensee acknowledges and agrees that the Software may automatically monitor, record, and log local system performance and diagnostic metrics (including, without limitation, execution time, processing throughput, and local memory utilization) strictly on Licensee's local device. Such metrics are collected solely for local debugging, performance optimization, and troubleshooting within the user interface, and do not involve any external telemetry transmission or collection of Personally Identifiable Information (PII).
 
 3. Use Restrictions. Licensee shall not, and shall require its Authorized Users not to, directly or indirectly:
 (a) use (including make any copies of) the Software or Documentation beyond the scope of the license granted under Section 2;
