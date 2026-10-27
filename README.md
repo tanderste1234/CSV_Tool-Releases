@@ -19,6 +19,7 @@ this is where the installer for the tool and the tools executables and binaries 
 12. on the next screen  when ready hit the install now button and wait for the progress bar to finish if on linux see the below note
 > **Note:** on linux the installer will give you a command to copy for giving the 2 tools execution permissions so remember to type sudo and a space before pasting the command when prompted enter your sudo password
 ## 💻 Using The Raw Data Tool
+> **Note:** when running either tool for the first time on windows you need to run it as an administrator the same way you did the installer as it needs these privaleges to accept the EULA once this is done now it will not need it anymore
 1. double click the Desktop shortcut the installer created if on windows on linux you would find the folder of the tool and double click the binary file (if prompted select run)
 2. click the <kbd>Add Files...</kbd> button near the top of the window and next to the white box labeled Input Headless Files then select your files for the current year using windows file explorer
 > ‼️**IMPORTANT NOTE** ‼️ **DO NOT** change the location of the temp file in the input window the only reason it is there is so that if we were to later need other use cases they may want to change that but as long as you are dealing with carbon data you **SHOULD** ***NEVER*** touch that input
@@ -31,6 +32,7 @@ this is where the installer for the tool and the tools executables and binaries 
 7. to create the next file hit the <kbd>Clear All</kbd> button (located below the <kbd>Remove Selected</kbd> button and next to the white box that displays your file inputs)
 8. Now repeat steps 2 through 7 until all headered year files have been properly generated
 ## 💻 Using The CSV Tool
+> **Note:** when running either tool for the first time on windows you need to run it as an administrator the same way you did the installer as it needs these privaleges to accept the EULA once this is done now it will not need it anymore
 ### 1. Selecting The Input and Output Files
 1. First you will need to double-click the desktop shortcut or if on Linux double click the binary file from it's folder
 3. Next you will need to hit the <kbd>Browse...</kbd> button in the program window next to the `input file:` label and after the white input box
